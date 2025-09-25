@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/conditionally-render-a-component-using-react-exp2d/static/css/main.e6c13ad2.css",
+    "main.js": "/conditionally-render-a-component-using-react-exp2d/static/js/main.397a50d6.js",
+    "static/js/453.ec54f483.chunk.js": "/conditionally-render-a-component-using-react-exp2d/static/js/453.ec54f483.chunk.js",
+    "index.html": "/conditionally-render-a-component-using-react-exp2d/index.html",
+    "main.e6c13ad2.css.map": "/conditionally-render-a-component-using-react-exp2d/static/css/main.e6c13ad2.css.map",
+    "main.397a50d6.js.map": "/conditionally-render-a-component-using-react-exp2d/static/js/main.397a50d6.js.map",
+    "453.ec54f483.chunk.js.map": "/conditionally-render-a-component-using-react-exp2d/static/js/453.ec54f483.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.397a50d6.js"
+  ]
+}
